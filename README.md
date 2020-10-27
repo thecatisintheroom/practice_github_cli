@@ -1,2 +1,2 @@
 # practice_github_cli
-practice for github CLI
+practice for github CLI _updated
